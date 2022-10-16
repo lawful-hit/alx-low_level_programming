@@ -2,7 +2,7 @@
 
 
 /**
- * maain - prints the alphabet in  lowercase
+ * main - prints the alphabet in  lowercase
  * followed by a new line,except q and e
  * Return: Always 0
  */
