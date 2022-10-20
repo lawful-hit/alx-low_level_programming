@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_aalphabet_x10 - prints alpha 10 times
+ * print_alphabet_x10 - prints alpha 10 times
  */
 void print_alphabet_x10(void)
 {
