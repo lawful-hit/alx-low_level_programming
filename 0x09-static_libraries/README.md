@@ -1,1 +1,1 @@
-A directory about static libraries in C programming language
+A file about static libraries in C programming
